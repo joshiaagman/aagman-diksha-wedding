@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aagman Diksha//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:wedding-5-2026@aagman-diksha
+DTSTAMP:20261011T000000Z
+DTSTART:20261114T123000Z
+SUMMARY:Aagman & Diksha — Reception / Dinner
+LOCATION:Aay Vee Resort\, Near Heritage School\, Sainik Colony\, Jammu
+DESCRIPTION:6:00 pm onwards
+END:VEVENT
+END:VCALENDAR

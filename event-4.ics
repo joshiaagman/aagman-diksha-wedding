@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aagman Diksha//Wedding//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:wedding-4-2026@aagman-diksha
+DTSTAMP:20261011T000000Z
+DTSTART:20261112T120000Z
+SUMMARY:Aagman & Diksha — Departure of Barat
+LOCATION:H.No 248\, Sec-E\, Sainik Colony\, Jammu
+DESCRIPTION:Departure from residence to Celebration Banquet Resort\, Near Marble Market\, Jammu.
+END:VEVENT
+END:VCALENDAR
